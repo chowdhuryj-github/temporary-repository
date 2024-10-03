@@ -9,7 +9,6 @@ public class Random {
         System.out.println("Test line 4");
         System.out.println("Test line 5");
 
-
     }
 
 }
